@@ -15,7 +15,7 @@ A Canva presentation displaying the project presentation and a notebook for disp
 
 Here, based on the audio-features collected from Spotify,the model recommends similar song from the similar type of songs. Based on the user's choice whether it is from Hot songs or Not Hot songs, the model recommends another song from corresponding datasets.
 
-In the python codes, three different clustering models: K-Means, Gaussian and Agglomerative, have been created to find the optimum clustering model and K-Means(7) have been chosen. Based on this clustering, the model identifies the song cluster and recommends another hot song, if the user is looking for a hot song or recommends a not hot song, if the user is open to other songs.
+In the python codes, three different clustering models: K-Means, Gaussian and Agglomerative, have been created to find the optimum clustering model and K-Means(11) have been chosen. Based on this clustering, the model identifies the song cluster and recommends another hot song, if the user is looking for a hot song or recommends a not hot song, if the user is open to other songs.
 
 In future, with machine learning models this could be developed and more user specific recommendation could be suggested. 
 
