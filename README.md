@@ -30,6 +30,6 @@ In future, with machine learning models this could be developed and more user sp
 
 Please click on the link to open and visualize the Canva presentation.
 
-[Link](https://www.canva.com/design/DAFKWV42R_k/SWV8DI44veDQ5Zw4cdnxQg/edit?utm_content=DAFKWV42R_k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Link](https://www.canva.com/design/DAFKWV42R_k/AVr1EbfCmbEvfJvMSbN21Q/view)
 
 However, to visualize how the model works, and to get a recommendation of a song of your choice, you may need to run the codes :wink:
